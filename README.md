@@ -74,7 +74,8 @@ pip install -r requirements.txt
 
 ### 4. Add images
 
-Place your input scanned images inside the `images/` folder.
+Place your input scanned images inside the `images/` folder. 
+THe images are read and embedded in the readindex.py file.
 
 ### 5. Run FastAPI server
 
